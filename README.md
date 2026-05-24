@@ -1,0 +1,1 @@
+This project uses the Logistic Regression machine learning algorithm to predict whether a credit card application will be approved or rejected. The model analyzes applicant details such as income, employment status, and credit history to make accurate predictions. The project includes data preprocessing, model training, evaluation, and prediction using Python and Scikit-learn.
